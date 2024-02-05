@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": null,
+            "title": "Aussie cricket legend’s surprising struggle",
+            "description": "The Australian cricket community is rallying around Greg Chappell to help the cricket legend’s financial struggles.",
+            "url": "https://www.news.com.au/sport/cricket/teammates-rally-around-aussie-cricket-legend-greg-chappell-amid-financial-hardship/news-story/775fbcaab820a56e805e376cc7e93029",
+            "urlToImage": "https://content.api.news/v3/images/bin/b7cd88349fa2e67eb70d784940e4ee56",
+            "publishedAt": "2023-10-26T04:35:00Z",
+            "content": "The Australian cricket community is rallying around Greg Chappell to help the cricket legend’s financial struggles.\r\nNews Corp reports Chappell reluctantly agreed to a GoFundMe page being set up for … [+3604 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        },
+        {
+            "source": {
+            "id": null,
+            "name": "Theregister.com"
+            },
+            "author": "Simon Sharwood",
+            "title": "Microsoft enlists iFixit to extend Surface spare parts program",
+            "description": "Appears to have expanded coverage to at least 30 nations\nMicrosoft has extended its spare parts program for Surface PCs by selling components at teardown artists iFixit.…<!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' -->",
+            "url": "https://www.theregister.com/2023/10/27/microsoft_surface_ifixit/",
+            "urlToImage": "https://regmedia.co.uk/2022/05/20/shutterstock_repair.jpg",
+            "publishedAt": "2023-10-27T03:58:34Z",
+            "content": "Microsoft has extended its spare parts program for Surface PCs by selling components at teardown artists iFixit.\r\nThe software giants hardware side hustle first started slinging spares in June 2023, … [+2438 chars]"
+            }
+    ]
+}
